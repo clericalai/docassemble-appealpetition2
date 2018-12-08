@@ -1,0 +1,25 @@
+metadata:
+  title: Petition for Allowance of Banana Peel
+  short title: Appeal
+---
+mandatory: True
+question: |
+  Your document is ready.
+subquestion: |
+  Thank you for using this interview.
+buttons:
+  - Exit: exit
+  - Restart: restart
+attachments:
+  - name: Petition for Allowance of Appeal
+    filename: Petition_for_Allowance_of_Appeal
+    docx template file: test-document.docx
+---
+question: |
+  abba
+subquestion: |
+  asdf
+fields:
+  - 'asdfads': docket_number
+  - 'asdfasdfa': looking_for_attorney
+  - 'asdfasd': reason
